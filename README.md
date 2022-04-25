@@ -18,8 +18,8 @@ After running this data through the Open Weather website I was able to return in
 
 ### Create a Customer Travel Destination Map
 I was then able to filter this list using a customer preference of temperature ranges and create a list of potential travel locations along with nearby hotels. These were processed through Google Maps to return potential hotels along with pop up markers.
-![Image3](/Vacation_search/WeatherPy_vacation_map.png)
+![Image3](/../main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Create a Travel Itinerary Map
 This was completed using Google Directions API to create a route for 4 locations.
-![Image4](/Vacation_Itinerary/weatherpy_travel_map.png)
+![Image4](/../main/Vacation_Itinerary/WeatherPy_travel_map.png)
